@@ -1,0 +1,21 @@
+{
+  "name": "shaiamp",
+  "version": "1.0.0",
+  "description": "_Shai Lagarde's newest portal!_",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonholmes/shaiamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonholmes/shaiamp/issues"
+  },
+  "homepage": "https://github.com/antonholmes/shaiamp#readme"
+}
